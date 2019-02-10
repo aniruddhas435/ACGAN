@@ -1,2 +1,2 @@
-# ACGAN implmentation on MNIST
+# ACGAN implementation on MNIST
 
