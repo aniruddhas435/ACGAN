@@ -29,4 +29,4 @@ The [model2.py](https://github.com/aniruddhas435/ACGAN/blob/master/model2.py) is
 
 In the above problem, as the _embedding_ is being defined externally, a _fully connected_ layer is introduced which learns the representation of the _class intent_.
 
-The rest of the model remains the same for both the implementations which is as mentioned in the [paper](https://arxiv.org/pdf/1610.09585.pdf).
+The rest of the model remains the same for both the implementations.
