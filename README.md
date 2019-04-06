@@ -5,7 +5,7 @@
 python write_numbers.py
 ```
 this takes a sequence of digits as inputs and generates an output where the digits twine from one to the other sequentially.
-**Though to run this file one has to download the [model-4000.h5]**(https://github.com/aniruddhas435/ACGAN/blob/master/model-4000.h5) file
+**Though to run this file one has to download the [model-4000.h5](https://github.com/aniruddhas435/ACGAN/blob/master/model-4000.h5) file**
 
 ---
 
